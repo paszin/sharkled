@@ -1,5 +1,8 @@
 
 # sharkled
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f4dbf1022b5946dba27ecab2ea7ad01b)](https://www.codacy.com/app/pascalslogin/sharkled?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=shark39/sharkled&amp;utm_campaign=badger)
+
 Flask backend to control ws2812 led stripes via rasperry pi
 
 
